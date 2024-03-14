@@ -40,15 +40,6 @@ To install the Artificial Pancreas Medical Control System, follow these steps:
 - Monitor glucose levels and adjust settings as needed through the user interface.
 - Review logged data for analysis and optimization of the control system.
 
-## Contributing 🤝
-
-Contributions to the Artificial Pancreas Medical Control System project are welcome! If you would like to contribute, please follow these guidelines:
-
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Make your changes and ensure all tests pass.
-- Submit a pull request detailing your changes and any relevant information.
-
 ## License 📝
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
