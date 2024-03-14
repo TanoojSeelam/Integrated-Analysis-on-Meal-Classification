@@ -2,20 +2,17 @@
 
 ## Overview ℹ️
 
-The Artificial Pancreas Medical Control System is a software project aimed at developing an automated control system for managing blood glucose levels in individuals with diabetes. This repository contains the source code and documentation for the project.
+The Artificial Pancreas Medical Control System is designed to utilize data mining techniques on large datasets represented in CSV format. The system is intended to aid in medical control and management, particularly focusing on diabetes management through artificial pancreas technology.
 
-## Features 🚀
+## ✨ Features
 
-- **Automated Insulin Delivery**: Utilizes algorithms to automatically regulate insulin delivery based on real-time glucose monitoring.
-- **User Interface**: Provides a user-friendly interface for patients to monitor their glucose levels and adjust settings.
-- **Data Logging**: Records glucose levels, insulin dosages, and other relevant data for analysis and review.
-- **Customization**: Allows customization of control algorithms and settings to suit individual patient needs.
+- **Data Analysis**: Utilizes advanced data mining techniques to extract insights from large CSV datasets.
+- **Medical Control**: Aims to assist in medical decision-making, particularly in the realm of diabetes management.
+- **Artificial Pancreas**: Focuses on integrating artificial pancreas technology into the medical control system.
 
-## Installation 🛠️
+## 💻 Usage
 
-To install the Artificial Pancreas Medical Control System, follow these steps:
-
-1. Clone the repository:
+1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```bash
    git clone https://github.com/TanoojSeelam/Artificial-Pancreas-medical-control-system.git
@@ -32,13 +29,6 @@ To install the Artificial Pancreas Medical Control System, follow these steps:
    ```bash
    python main.py
    ```
-
-## Usage 🖥️
-
-- Launch the application by running `main.py`.
-- Follow the on-screen instructions to set up the system parameters and user preferences.
-- Monitor glucose levels and adjust settings as needed through the user interface.
-- Review logged data for analysis and optimization of the control system.
 
 ## License 📝
 
